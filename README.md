@@ -1,3 +1,3 @@
-# final-project
+# portfolio
 
-https://tomriskio.github.io/final-project/
+https://tomriskio.github.io/portfolio/
